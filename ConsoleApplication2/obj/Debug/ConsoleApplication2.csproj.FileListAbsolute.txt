@@ -4,3 +4,6 @@ c:\users\aminyaylo\documents\visual studio 2015\Projects\ConsoleApplication2\Con
 c:\users\aminyaylo\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
 c:\users\aminyaylo\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 c:\users\aminyaylo\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\aminyaylo\Documents\Visual Studio 2015\Projects\Elephant\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\aminyaylo\Documents\Visual Studio 2015\Projects\Elephant\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\aminyaylo\Documents\Visual Studio 2015\Projects\Elephant\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
